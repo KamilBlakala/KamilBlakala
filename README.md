@@ -1,4 +1,4 @@
-### Hi ! I'm Kamil Błąkała - looking to be a Front-End Intern
+### 🔤Hello, World!🔤❗️ ! I'm Kamil Błąkała - looking to be a Front-End Intern
 
 ## I'm 28y and start to learning few months ago - soon as possible on my Github gonna be new projects!
 
