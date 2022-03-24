@@ -5,3 +5,5 @@
 - 😀 Currently a self-study - I am doing courses with Udemy
 - 👨🏽‍💻 My technology so far : HTML5 / CSS3 / JavaScript ES6
 - 🔥 Next to learn : React
+- 🎖️ Im currently working on my portfolio 
+- 🏆 First commercial project : 70% done
