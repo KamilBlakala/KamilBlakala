@@ -6,4 +6,6 @@
 - 👨🏽‍💻 My technology stack : HTML5 / CSS3 / JavaScript ES6
 - 🔥 Next to learn : React
 - 🎖️ Im currently working on my portfolio 
-- 🏆 First commercial project : 70% done
+- 🏆 First commercial project : 80% done
+- 🔥 Next second page portfolio #2 - 0% 
+- 🔥 Weather App with API AcuWeather - 0%
