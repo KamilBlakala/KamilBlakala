@@ -8,4 +8,4 @@
 - 🎖️ Im currently working on my portfolio 
 - 🏆 First commercial project : 100% done
 - 🔥 Next second page portfolio #2 - 0% 
-- 🔥 Weather App with API OpenWeather - 80%
+- 🔥 Weather App with API OpenWeather - 100%
