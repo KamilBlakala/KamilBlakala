@@ -7,5 +7,5 @@
 - 🔥 Next to learn : React
 - 🎖️ Im currently working on my portfolio 
 - 🏆 First commercial project : 100% done
-- 🔥 Next second page portfolio #2 - 0% 
+- 🔥 Next - Second page portfolio #2 - 10% 
 - 🔥 Weather App with API OpenWeather - 100%
