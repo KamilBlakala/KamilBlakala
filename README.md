@@ -1,8 +1,6 @@
 ### 🔤Hello, World!🔤❗️ I'm Kamil Błąkała 
 
-## I'm 28y and start to learning few months ago - soon as possible on my Github gonna be new projects!
-
-- 😀 Currently a self-study - I am doing courses with Udemy
+- 😀 Currently a self-study
 - 👨🏽‍💻 My technology stack : HTML5 / CSS3 / JavaScript ES6
 - 🔥 Next to learn : React / Angular
 - 🎖️ Im currently working on my portfolio 
